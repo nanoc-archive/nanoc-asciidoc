@@ -1,12 +1,12 @@
 # encoding: utf-8
 
+require 'systemu'
+
 module Nanoc::AsciiDoc
 
   class Filter < Nanoc::Filter
 
     identifier :asciidoc
-
-    requires 'systemu'
 
     def run(content, params={})
       # Run command
