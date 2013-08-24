@@ -27,3 +27,5 @@ Library requirements:
 ```ruby
 filter :asciidoc
 ```
+
+This filter takes no options.
