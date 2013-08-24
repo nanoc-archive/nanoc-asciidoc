@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = [ 'ChangeLog', 'LICENSE', 'README.md', 'NEWS.md' ]
 
   s.add_runtime_dependency('nanoc', '~> 4.0')
+  s.add_runtime_dependency('systemu')
 
   s.add_development_dependency('minitest')
 end
