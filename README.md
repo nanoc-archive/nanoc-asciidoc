@@ -6,18 +6,6 @@
 
 This provides an [AsciiDoc](http://www.methods.co.nz/asciidoc/) filter for [nanoc](http://nanoc.ws).
 
-## Requirements
-
-Runtime requirements:
-
-* Ruby 1.9.3 and up
-
-Library requirements:
-
-* AsciiDoc
-* systemu
-* nanoc 4.0 and up
-
 ## Installation
 
 `gem install nanoc-asciidoc`
