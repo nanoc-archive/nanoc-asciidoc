@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
+gemspec
+
 gem 'minitest'
-gem 'nanoc'
 gem 'rake'
-gem 'systemu'

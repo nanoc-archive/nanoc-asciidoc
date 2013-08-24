@@ -26,6 +26,4 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency('nanoc', '~> 4.0')
   s.add_runtime_dependency('systemu')
-
-  s.add_development_dependency('minitest')
 end
