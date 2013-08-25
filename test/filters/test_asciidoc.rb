@@ -10,7 +10,7 @@ class Nanoc::AsciiDoc::FilterTest < Minitest::Test
     end
 
     # Create filter
-    filter = ::Nanoc::Filters::AsciiDoc.new
+    filter = ::Nanoc::AsciiDoc::Filter.new
 
     # Run filter
     result = filter.setup_and_run("== Blah blah")
