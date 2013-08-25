@@ -2,5 +2,5 @@
 
 require 'minitest'
 require 'minitest/autorun'
-require 'nanoc'
+require 'nanoc-core'
 require 'nanoc-asciidoc'
