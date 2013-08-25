@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   s.name        = 'nanoc-asciidoc'
   s.version     = Nanoc::AsciiDoc::VERSION
   s.homepage    = 'http://nanoc.ws/'
-  s.summary     = 'AsciiDoc filter for nanoc'
-  s.description = s.summary
+  s.summary     = 'AsciiDoc support for nanoc'
+  s.description = 'Provides an :asciidoc filter for nanoc'
 
   s.author  = 'Denis Defreyne'
   s.email   = 'denis.defreyne@stoneship.org'
