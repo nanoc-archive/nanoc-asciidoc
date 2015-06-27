@@ -1,19 +1,3 @@
-[![Build Status](https://travis-ci.org/nanoc/nanoc-asciidoc.png)](https://travis-ci.org/nanoc/nanoc-asciidoc)
-[![Code Climate](https://codeclimate.com/github/nanoc/nanoc-asciidoc.png)](https://codeclimate.com/github/nanoc/nanoc-asciidoc)
-[![Coverage Status](https://coveralls.io/repos/nanoc/nanoc-asciidoc/badge.png?branch=master)](https://coveralls.io/r/nanoc/nanoc-asciidoc)
+This repository was part of the initial attempt at writing nanoc 4. That attempt did not go as initially planned, and was cancelled mid May 2015.
 
-# nanoc-asciidoc
-
-This provides an [AsciiDoc](http://www.methods.co.nz/asciidoc/) filter for [nanoc](http://nanoc.ws).
-
-## Installation
-
-`gem install nanoc-asciidoc`
-
-## Usage
-
-```ruby
-filter :asciidoc
-```
-
-This filter takes no options.
+Do not despair! There is a _true_ nanoc 4, and it lives in the [nanoc/nanoc repository](http://github.com/nanoc/nanoc). For information about nanoc 4 and how to upgrade, consult the [nanoc 4 upgrade guide](http://nanoc.ws/docs/nanoc-4-upgrade-guide/).
